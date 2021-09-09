@@ -26,3 +26,12 @@ th, td {
 	margin: 5px 10px;
 	padding: 6px;
 }
+
+.data-row{
+	background-color: yellow
+}
+.data-row:nth-child(odd)
+{
+	background-color: #000000;
+	color: #fff;
+  }
